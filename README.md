@@ -4,9 +4,9 @@
 
 This project simulates real-time dynamic pricing for parking lots using demand and competition-based models.
 
-✅ Implements 3 pricing models  
-✅ Simulates real-time ingestion (Pathway-inspired)  
-✅ Visualizes results using Bokeh (with Colab + ngrok)
+- Implements 3 pricing models  
+- Simulates real-time ingestion (Pathway-inspired)  
+- Visualizes results using Bokeh (with Colab + ngrok)
 
 
 ## Tech Stack
@@ -16,7 +16,6 @@ This project simulates real-time dynamic pricing for parking lots using demand a
 - Pandas, NumPy
 - Pathway (simulated)
 - Google Colab
-- GitHub Pages (optional for hosting visuals)
 
 
 ## Models Overview
